@@ -1,9 +1,7 @@
 <h2 >React Node JS Ecommerce </h2>
 Demo: https://techshop233.herokuapp.com
-<p>
-user: demo@demo.com
-password: demo
-</p>
+<p> user: demo@demo.com </p>
+<p> password: demo </p>
 <p> This is a Ecommerce store made with React Redux Node JS Express JS and Mongo DB </p>
 <p> Users can browse products, view product details, add products the the shopping cart,  login / create an account, view and update profile, checkout products, add shipping address, pay with paypal(sandbox) and place a order
 </p>
