@@ -1,4 +1,5 @@
 # MernStore
+<img src="https://raw.githubusercontent.com/juanluissv/MernStore/master/screen.png" />
 
 WEBSITE:
 https://techshop233.herokuapp.com
