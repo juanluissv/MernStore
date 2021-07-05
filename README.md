@@ -11,11 +11,11 @@ password: demo
 <p>Backend: </p>
 <p> Node JS, Express JS, MongoDB, Mongoose, Heroku </p>
 <p>
-INSTALL:
-- BACKEND: npm install (in main folder)
-- CLIENT: npm instal ( in frontend folder)
+<p>INSTALL: </P>
+<p> - BACKEND: npm install (in main folder) </p>
+<p> - CLIENT: npm instal ( in frontend folder) </p>
 
-RUN:
+<p>RUN:
 npm run dev (run both client and server)
 </p>  
   
