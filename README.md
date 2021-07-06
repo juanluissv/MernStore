@@ -2,6 +2,9 @@
 Demo: https://techshop233.herokuapp.com
 <p> user: demo@demo.com -- 
 password: demo 
+ </p>
+ <img src="https://raw.githubusercontent.com/juanluissv/MernStore/master/screen.png" />
+
 <p> This is a Ecommerce store made with React Redux Node JS Express JS and Mongo DB </p>
 <p> Users can browse products, view product details, add products to the shopping cart, Login / create an account, view and update profile, checkout products, add shipping address, pay with paypal(sandbox) and place a order
 </p>
@@ -19,7 +22,6 @@ password: demo
 npm run dev (run both client and server)
 </p>  
   
-<img src="https://raw.githubusercontent.com/juanluissv/MernStore/master/screen.png" />
 
 
 
