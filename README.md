@@ -5,7 +5,7 @@ password: demo
  </p>
  <img src="https://raw.githubusercontent.com/juanluissv/MernStore/master/screen.png" />
 
-<p> This is a Ecommerce store made with React Redux Node JS Express JS and Mongo DB </p>
+<p> This is a Ecommerce store made with React Redux Bootstrap Node JS Express JS and Mongo DB </p>
 <p> Users can browse products, view product details, add products to the shopping cart, Login / create an account, view and update profile, checkout products, add shipping address, pay with paypal(sandbox) and place a order
 </p>
 <p>Technology use:</p>
